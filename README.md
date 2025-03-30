@@ -1,1 +1,11 @@
-# 42_Common_Core
+## Projects :checkered_flag:
+
+| Project                                                         | Rank | Language                                                                       | Score                                                                          |
+| ---                                                             | ---  | ---                                                                            | ---                                                                            |
+| <a href="https://github.com/alteixeira20/42_libft">libft</a>         | 0    | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_libft" />     | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> |
+| <a href="https://github.com/alteixeira20/42_printf">ft_printf</a> | 1    | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_printf" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> |
+| <a href="https://github.com/alteixeira20/42_get_next_line">get_next_line</a> | 1    | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_get_next_line" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> |
+| Born2beRoot | 1    | | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> |
+| <a href="https://github.com/alteixeira20/42_push_swap">push_swap</a> | 2    | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_push_swap" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> |
+| <a href="https://github.com/alteixeira20/42_minitalk">minitalk</a> | 2    | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_minitalk" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> |
+| <a href="https://github.com/alteixeira20/42_so_long">so_long</a> | 2    | <img src="https://img.shields.io/github/languages/top/alteixeira20/42_so_long" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> |
