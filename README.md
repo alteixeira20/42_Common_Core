@@ -1,4 +1,4 @@
-## Projects :checkered_flag:
+## Projects
 
 | Project                                                         | Rank | Language                                                                       | Score                                                                          |
 | ---                                                             | ---  | ---                                                                            | ---                                                                            |
